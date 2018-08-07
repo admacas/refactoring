@@ -9,7 +9,7 @@ package longMethod;
  *
  * @author Alex Macas
  */
-public class LongMethodRefactoring {
+public class ExtractMethod {
     public void UniversalBoardCoordinate(String locationPhrase) {
         Integer[] orderedPair = parseString(locationPhrase);
 

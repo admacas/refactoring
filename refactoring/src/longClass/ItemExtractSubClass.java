@@ -3,19 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package refactoring;
+package longClass;
 
 /**
  *
  * @author Alex Macas
  */
-public class Refactoring {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class ItemExtractSubClass {
+    public void getTotalPrice(){
+        //codigo de implementacion
     }
-    
+    public void getUnitPrice(){
+        //codigo de implementacion
+    }
 }
